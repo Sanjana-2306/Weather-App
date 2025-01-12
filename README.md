@@ -70,7 +70,8 @@ The application offers the following features:
 ## Future Enhancements
 
 - Add a 7-day weather forecast feature.
-- Provide additional details like sunrise,sunset and air quality.
+- Provide additional details like sunrise,sunset timings and air quality.
+- future weather predicitions.
 
 ## Contributing
 
