@@ -1,6 +1,6 @@
 # **Weather App**
 
-This web app fetches real-time weather data based on your location or a manually entered city. The app displays the current weather conditions, temperature,change background colors accordingly and other relevant details.
+This web app fetches real-time weather data based on your location or a manually entered city. The app displays the current weather conditions, temperature, and other relevant details, all while giving off a cute and interesting vibe. The background dynamically changes to match the current weather, adding a fun and immersive touch.
 
 ## **Features**
 
